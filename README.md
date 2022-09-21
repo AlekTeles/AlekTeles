@@ -3,9 +3,9 @@
   
 
 *Quem sou eu ?*
-
-- [✔] Entusiasta de fisiculturismo/ atleta amador
-- [✔] Freelancer de programação web
+ 
+- [✔] Entusiasta de fisiculturismo/ atleta amador 🏋️‍♀️
+- [✔] Freelancer de programação web 👨‍💻
 
 
 # Experiência/Projetos
