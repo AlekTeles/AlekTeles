@@ -1,16 +1,17 @@
-### Hi there 👋
+# Alek Teles
+   22 Anos / Natural de Fortaleza-Ce ⭐
+  
 
-<!--
-**AlekTeles/AlekTeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Quem sou eu ?*
 
-Here are some ideas to get you started:
+- [✔] Entusiasta de fisiculturismo/ atleta amador
+- [✔] Freelancer de programção web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Experiência/Projetos
+- ❄  Projeto Fridge  - http://fridge-html-xi.vercel.app/
+  > Uma experiência focada inteiramente na interface , com o auxílio da excelente  @jemluz aprendi muito sobre UX e esquema de cores🌈
+
+
+-  📘 Projeto Agenda -  https://agendawebpack.herokuapp.com/
+   > Uma agenda de contatos feita em Webpack com Back-end em node , minha primeira intenção era utilizar um servidor em uma maquina virtual Ubuntu mas utilizar o Heroku foi uma escolha muito melhor 🤓
