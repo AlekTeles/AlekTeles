@@ -5,7 +5,7 @@
 *Quem sou eu ?*
 
 - [✔] Entusiasta de fisiculturismo/ atleta amador
-- [✔] Freelancer de programção web
+- [✔] Freelancer de programação web
 
 
 # Experiência/Projetos
