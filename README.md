@@ -13,5 +13,6 @@
   > Uma experiência focada inteiramente na interface , com o auxílio da excelente  @jemluz aprendi muito sobre UX e esquema de cores🌈
 
 
--  📘 Projeto Agenda -  https://agendawebpack.herokuapp.com/
-   > Uma agenda de contatos feita em Webpack com Back-end em node , minha primeira intenção era utilizar um servidor em uma maquina virtual Ubuntu mas utilizar o Heroku foi uma escolha muito melhor 🤓
+-  📘 Projeto FireBlogs -  https://fireblogs-bdcc3.web.app/
+   > Feito em Vue 2.6.2/javaScript e com o uso da plataforma firebase para banco de dados/deploy , projeto full stack feito com o intuito de ser um blog de dicas para   
+   > programação  💬
