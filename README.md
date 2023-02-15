@@ -14,5 +14,5 @@
 
 
 -  📘 Projeto FireBlogs -  https://fireblogs-bdcc3.web.app/
-   > Feito em Vue 2.6.2/javaScript e com o uso da plataforma firebase para banco de dados/deploy , projeto full stack feito com o intuito de ser um blog de dicas para   
+   > Feito em Vue.js 2.6.2 e com o uso da plataforma firebase para banco de dados/deploy , projeto full stack feito com o intuito de ser um blog de dicas para   
    > programação  💬
