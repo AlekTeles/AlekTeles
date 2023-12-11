@@ -1,10 +1,11 @@
 # Alek Teles
-   22 Anos / Natural de Fortaleza-Ce ⭐
+   23 Anos / Natural de Fortaleza-Ce ⭐
+   Cursando Ciência da Computação, terceiro semestre
   
 
 *Quem sou eu ?*
  
-- [✔] Entusiasta de fisiculturismo/ atleta amador 🏋️‍♀️
+- [✔] Entusiasta de fisiculturismo  🏋️‍♀️
 - [✔] Freelancer de programação web 👨‍💻
 
 
